@@ -1,0 +1,9 @@
+{
+  "id":"gantry_hullsize_indicator",
+  "name":"Gantry Hullsize Indicator",
+  "author":"AERO",
+  "version":"0.1.0",
+  "description":"Displays the hullsize of the ship that a salvage gantry is on in the tooltip.",
+  "gameVersion":"0.96a-RC8",
+  "jars":["jars/GantryHullsizeIndicator.jar"]
+}
